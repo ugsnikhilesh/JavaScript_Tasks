@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>20BCE1174 - JS Task 6</title>
+</head>
+<body>
+        <b><h3>Alphabetical Order</h3></b>
+        <label for="inputString">Enter a string:</label>
+        <input type="text" id="inputString">
+        <button onclick="sortstring()">Sort Alphabetically</button>
+        <div id="result"></div>
+        <script>
+        function sortstring() 
+        {
+            var inputString = document.getElementById("inputString").value;
+            var s = inputString.toLowerCase().split('').sort().join('');
+            document.getElementById("result").innerHTML = s;
+        }
+        </script>
+</body>
+</html>
