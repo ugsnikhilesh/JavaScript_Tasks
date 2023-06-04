@@ -5,7 +5,7 @@
 S.No | Task | Output Link
 :-: | :-: | :-:
 1 | Task 1 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_1.html)
-2 | Task 2 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_2)
+2 | Task 2 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_2/JS_Task_2_page1.html)
 3 | Task 3 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_3.html)
 4 | Task 4 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_4.html)
 5 | Task 5 | [View](https://ugsnikhilesh.github.io/JavaScript_Tasks/JS_Task_5.html)
